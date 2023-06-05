@@ -93,12 +93,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TaifAljaloo/TaifAljaloo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=taifamer456&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>  
