@@ -99,6 +99,6 @@
 
 <br/>  
 
-![snake gif](https://github.com/TaifAljaloo/TaifAljaloo/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/TaifAljaloo/TaifAljaloo/blob/output/github-contribution-grid-snake.gif)
 
 
